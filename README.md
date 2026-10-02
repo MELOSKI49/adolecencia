@@ -6,7 +6,7 @@ Sitio educativo del Equipo 1 sobre la adolescencia.
 
 La página principal y sus recursos están en la raíz del repositorio para que GitHub Pages los encuentre al publicar desde `main`.
 
-La dirección del sitio es: <https://meloski49.github.io/adolecencia/>.
+**[Abrir la página de Adolescencia](https://meloski49.github.io/adolecencia/)**
 
 Cada actualización de `main` activa el flujo de publicación; también se puede ejecutar manualmente desde la pestaña **Actions**.
 
