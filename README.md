@@ -4,7 +4,7 @@ Sitio educativo del Equipo 1 sobre la adolescencia.
 
 ## Ver el sitio
 
-GitHub Pages publica el sitio al actualizar la rama `main`. La página de inicio redirige al sitio guardado en `Pagina Equipo 1/Pagina Principal`.
+La página principal y sus recursos están en la raíz del repositorio para que GitHub Pages los encuentre al publicar desde `main`.
 
 La dirección del sitio es: <https://meloski49.github.io/adolecencia/>.
 
@@ -12,4 +12,4 @@ Cada actualización de `main` activa el flujo de publicación; también se puede
 
 ## Ejecutar localmente
 
-Abre `Pagina Equipo 1/Pagina Principal/index.html` en un navegador. No se necesitan dependencias ni un servidor.
+Abre `index.html` en un navegador. No se necesitan dependencias ni un servidor.
